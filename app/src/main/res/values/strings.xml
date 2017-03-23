@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ATMLocator</string>
+    <string name="title_activity_atm_locator">Map</string>
+</resources>
